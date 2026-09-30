@@ -18,38 +18,41 @@
   <a href="https://github.com/tastenkasperle/scrub-vault">
     <img src="https://img.shields.io/badge/🛡️_PIONEER_PROJECT-SCRUBVAULT-00F0FF?style=for-the-badge&logoColor=black" alt="ScrubVault">
   </a>
+  <a href="https://pypi.org/project/scrub-vault/">
+    <img src="https://img.shields.io/badge/📦_PYPI_PACKAGE-1.0.0-3775A9?style=for-the-badge&logoColor=white" alt="PyPI">
+  </a>
 </p>
 
 ---
 
-### 🏛️ The Refinement Protocol (Unsere Doktrin)
+### 🏛️ The Refinement Protocol (Our Doctrine)
 
-Millionen Zeilen erstklassiger Code vergammeln in verlassenen Startups, unvollendeten Repositories und Big-Tech-Gräbern. Wir bergen diese 80%-Substanz, befreien sie von Ballast und C++ Abhängigkeiten und härten sie nach kompromisslosen Clean-Code-Standards zu **100% autarken, praxiserprobten Werkzeugen für autonome KI-Agenten**.
+Millions of lines of high-grade engineering decay inside abandoned startups, incomplete open-source repos, and big-tech archives. We salvage this 80% substance, strip unnecessary bloat and brittle C++ dependencies, and harden it into **100% standalone, zero-dependency tooling for autonomous AI agents**.
 
 ```
   [Legacy Spaghetti Repo] ──► [Diamantenschmiede // Anti-Carbonara] ──► [Production Gentleman]
 ```
 
-* 🛡️ **Zero-Dependency Core:** Pure Standard Libraries wo immer möglich (kein Aufblähen durch 500 MB npm/pip Ballast).
-* 🔒 **SAST Kugelsicher:** Alle Repositories durchlaufen vor Freigabe das *Raptor Guard Deep SAST Audit* (0 Schwachstellen).
-* 🤖 **MCP-First:** Native Integration in das Model Context Protocol Ökosystem (Claude Desktop, Cursor, Antigravity).
+* 🛡️ **Zero-Dependency Core:** Pure standard libraries wherever possible (no 500 MB npm/pip bloat).
+* 🔒 **Bulletproof SAST:** Every repository undergoes rigorous static application security testing via *Raptor Guard Deep SAST* (0 vulnerabilities).
+* 🤖 **MCP-First Architecture:** Native Model Context Protocol (MCP) servers for Claude Desktop, Cursor, and autonomous agent loops.
 
 ---
 
-### 🚀 Flaggschiffe & Pionier-Systeme
+### 🚀 Active Engines & Pioneer Flagships
 
-| System | Status | Beschreibung & Kernnutzen |
+| Engine | Status | Description & Core Capability |
 | :--- | :--- | :--- |
-| [**ScrubVault**](https://github.com/tastenkasperle/scrub-vault) | 🚀 **Live** | Reversibler In-Memory PII-Airgap-Proxy (DSGVO Art. 32 Zero-Data-Leak für Cloud-LLMs). |
-| [**HTTP Prompt Reloaded**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Ready | Revival der legendären 9.1k-Star API-REPL mit modernem Python-Stack & MCP-Server. |
-| [**HyperDrive Mesh**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Ready | Serverloses, dezentrales P2P-Dateisystem & Agenten-Gedächtnis via Hyperswarm DHT. |
-| [**Konfig MCP Engine**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Ready | Übersetzt beliebige OpenAPI 3.0/3.1 Spezifikationen on-the-fly in typisierte MCP-Tools. |
-| [**Repokid Core**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Ready | Entkoppelte Netflix Least-Privilege IAM Engine mit lokalem SQLite-Rollback-Tresor. |
+| [**ScrubVault**](https://github.com/tastenkasperle/scrub-vault) | 🚀 **Live on PyPI** | Reversible in-memory PII airgap proxy (`pip install scrub-vault`). GDPR Art. 32 zero-data-leak protection for Cloud LLMs. |
+| [**HTTP Prompt Reloaded**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Modernized revival of the legendary 9.1k-star API REPL. Navigate HTTP endpoints like a filesystem with stateful MCP tools. |
+| [**HyperDrive Mesh**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Serverless, decentralized P2P filesystem and persistent agent memory via Hyperswarm DHT and Merkle trees. |
+| [**Konfig MCP Engine**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Translates any OpenAPI 3.0/3.1 specification on the fly into strongly-typed MCP tools for AI agents. |
+| [**Repokid Core**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Decoupled Netflix IAM least-privilege engine with local SQLite cryptographic rollback vault. |
 
-👉 **Den vollständigen Fuhrpark aller 15 Titanen findest du auf unserer offiziellen [Showcase-Website](https://tastenkasperle.github.io/diamantenschmiede/).**
+👉 **Inspect the full 15-engine fleet in our interactive [Fleet Hangar](https://tastenkasperle.github.io/diamantenschmiede/).**
 
 ---
 
 <p align="center">
-  <sub>Handwerkliche Software-Veredelung &bull; Made with Precision &bull; No cookies. No trackers. Zero bloat.</sub>
+  <sub>Precision Engineering &bull; Handcrafted Software Refinement &bull; No cookies. No trackers. Zero bloat.</sub>
 </p>
