@@ -46,10 +46,14 @@ Millions of lines of high-grade engineering decay inside abandoned startups, inc
 
 | Engine | Status | Description & Core Capability |
 | :--- | :--- | :--- |
-| [**ScrubVault**](https://github.com/tastenkasperle/scrub-vault) | 🚀 **Live on PyPI** | Reversible in-memory PII airgap proxy (`pip install scrub-vault`). GDPR Art. 32 zero-data-leak protection for Cloud LLMs. |
-| [**HTTP Prompt Reloaded**](https://github.com/tastenkasperle/http-prompt-reloaded) | 🚀 **Live on PyPI** | Modernized revival of the legendary 9.1k-star API REPL (`pip install http-prompt-reloaded`). Navigate HTTP endpoints like a filesystem with stateful MCP tools. |
-| [**HyperDrive Mesh**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Serverless, decentralized P2P filesystem and persistent agent memory via Hyperswarm DHT and Merkle trees. |
-| [**Konfig MCP Engine**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Translates any OpenAPI 3.0/3.1 specification on the fly into strongly-typed MCP tools for AI agents. |
+| [**ScrubVault**](https://github.com/tastenkasperle/scrub-vault) | 🚀 **Live (Pioneer #01)** | Reversible in-memory PII airgap proxy. GDPR Art. 32 zero-data-leak protection for Cloud LLMs. |
+| [**HTTP Prompt Reloaded**](https://github.com/tastenkasperle/http-prompt-reloaded) | 🚀 **Live on PyPI (Pioneer #02)** | Modernized revival of the legendary 9.1k-star API REPL (`pip install http-prompt-reloaded`). Navigate HTTP endpoints like a filesystem with stateful MCP tools. |
+| [**HyperDrive Mesh**](https://github.com/tastenkasperle/hyperdrive-mesh) | 🚀 **Live on npm & Glama (Pioneer #03)** | Serverless, decentralized P2P filesystem & persistent agent memory (`npx hyperdrive-mesh`) via Hyperswarm DHT. |
+| [**ZombieHunter**](https://github.com/tastenkasperle/zombie_hunter) | 🚀 **Live on npm (Pioneer #04)** | FinOps cloud-governance & drift detection engine (`npx zombie-hunter-mcp`) for OpenTofu & Terraform. |
+| [**Strest Orchestrator**](https://github.com/tastenkasperle/strest-mcp) | 🚀 **Live on npm & Glama (Pioneer #05)** | Headless multi-step REST API test & chaining engine (`npx strest-mcp`) with SSRF & path-traversal shields. |
+| [**Pynonymizer Core**](https://github.com/tastenkasperle/pynonymizer_core) | 🚀 **Live on PyPI (Pioneer #06)** | Zero-dependency declarative test-data anonymizer (`pip install pynonymizer-core`) with auto-strategy inference. |
+| [**Konfig MCP Engine**](https://github.com/tastenkasperle/konfig_mcp_engine) | 🚀 **Live on npm & Glama (Pioneer #07)** | Translates OpenAPI 3.0/3.1 specs on the fly into strongly-typed MCP tools (`npx konfig-mcp-engine`). |
+| [**Dendron Mesh**](https://github.com/tastenkasperle/dendron_mesh) | 🚀 **Live on GitHub (Pioneer #08)** | Hierarchical Git-native knowledge base & agent memory with dot-notation, `[[wiki-links]]`, and backlink graphs. |
 | [**Repokid Core**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Decoupled Netflix IAM least-privilege engine with local SQLite cryptographic rollback vault. |
 
 👉 **Inspect the full 15-engine fleet in our interactive [Fleet Hangar](https://tastenkasperle.github.io/diamantenschmiede/).**
