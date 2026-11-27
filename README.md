@@ -53,7 +53,8 @@ Millions of lines of high-grade engineering decay inside abandoned startups, inc
 | [**Strest Orchestrator**](https://github.com/tastenkasperle/strest-mcp) | 🚀 **Live on npm & Glama (Pioneer #05)** | Headless multi-step REST API test & chaining engine (`npx strest-mcp`) with SSRF & path-traversal shields. |
 | [**Pynonymizer Core**](https://github.com/tastenkasperle/pynonymizer_core) | 🚀 **Live on PyPI (Pioneer #06)** | Zero-dependency declarative test-data anonymizer (`pip install pynonymizer-core`) with auto-strategy inference. |
 | [**Konfig MCP Engine**](https://github.com/tastenkasperle/konfig_mcp_engine) | 🚀 **Live on npm & Glama (Pioneer #07)** | Translates OpenAPI 3.0/3.1 specs on the fly into strongly-typed MCP tools (`npx konfig-mcp-engine`). |
-| [**Dendron Mesh**](https://github.com/tastenkasperle/dendron_mesh) | 🚀 **Live on GitHub (Pioneer #08)** | Hierarchical Git-native knowledge base & agent memory with dot-notation, `[[wiki-links]]`, and backlink graphs. |
+| [**Dendron Mesh**](https://github.com/tastenkasperle/dendron_mesh) | 🚀 **Live on PyPI (Pioneer #08)** | Hierarchical Git-native knowledge base & agent memory (`pip install dendron-mesh`) with dot-notation, `[[wiki-links]]`, and backlink graphs. |
+| [**Postbird Pro**](https://github.com/tastenkasperle/postbird_pro) | 🚀 **Live on npm (Pioneer #09)** | Lightweight database studio & bidirectional SQLite ⇄ PostgreSQL DDL bridge (`npx postbird-mcp`) with destructive SQL `SecurityGuard`. |
 | [**Repokid Core**](https://tastenkasperle.github.io/diamantenschmiede/) | 🟢 Launchpad | Decoupled Netflix IAM least-privilege engine with local SQLite cryptographic rollback vault. |
 
 👉 **Inspect the full 15-engine fleet in our interactive [Fleet Hangar](https://tastenkasperle.github.io/diamantenschmiede/).**
